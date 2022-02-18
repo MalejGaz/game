@@ -1,0 +1,41 @@
+body{
+  background-color: #f9f7f7
+
+}
+
+
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #dbe2ef;
+  border-width: 8px;
+  width: 5%;
+}
+h1{
+  color: #112d4e;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+}
+h3{
+  color: #112d4e
+}
+
+
+.question{
+  width: 100px;
+  height: auto;
+
+}
+
+.header{
+  background-color: #dbe2ef;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.middle-containter{
+  background-color: red;
+}
